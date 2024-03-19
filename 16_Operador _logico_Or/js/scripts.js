@@ -2,7 +2,7 @@
 // retorna true caso uma das operações retorne true;
 // O Or retorna false apenas se as duas expressões forem falsas.
 
-var idade = 23
+var idade = 19
 var nome = 'Reis'
 
 if(nome == 'Gustavo' || idade > 22){

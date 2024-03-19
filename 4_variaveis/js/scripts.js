@@ -16,7 +16,7 @@ var _nome = 'aria';
 console.log($nome) // não pode declarar com qualquer caracter especial, somente com $ e _
 console.log(_nome)
 
-// não da pra declarar variavel começando com número . 
+// não da pra declarar variavel começando com número. 
 var nome5 = 'sss'
 
 console.log(nome5);
